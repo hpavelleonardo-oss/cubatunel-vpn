@@ -1,0 +1,6 @@
+{
+  "name": "CubaTunnel",
+  "description": "VPN y Proxy multi-protocolo optimizado para Cubacel con Split Tunneling por aplicación, cortafuegos de ahorro de datos y motor VpnService activo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

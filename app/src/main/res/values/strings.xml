@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CubaTunnel</string>
+    <string name="vpn_channel_name">Estado del Túnel VPN</string>
+    <string name="vpn_channel_description">Notificación persistente mientras el servicio VPN Proxy está activo</string>
+    <string name="vpn_notif_connected">Túnel Cubacel Activo</string>
+    <string name="vpn_notif_disconnect">Desconectar</string>
+    <string name="nav_dashboard">Panel</string>
+    <string name="nav_proxies">Proxies</string>
+    <string name="nav_split_tunnel">Split Túnel</string>
+    <string name="nav_cubacel">Cubacel+</string>
+</resources>
